@@ -1,0 +1,18 @@
+body {
+  background-image: url(IMG1.jpg);
+  background-color: beige;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.welcome {
+  margin-top: 50px;
+  text-align: center;
+  box-shadow: 5px , 5px, 10px;
+
+  width: 400px;
+  height : 250px;
+}
